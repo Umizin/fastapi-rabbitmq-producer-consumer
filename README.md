@@ -1,6 +1,7 @@
 # Rodando com Docker
   - git clone https://github.com/Umizin/fastapi-rabbitmq-producer-consumer.git
   - docker-compose up --build na pasta do app
-# <img width="901" height="920" alt="image" src="https://github.com/user-attachments/assets/df711e51-c554-41b1-951a-db5d817f91f6" />
-# <img width="884" height="893" alt="image" src="https://github.com/user-attachments/assets/7446d730-bcc4-4256-8750-a0f76e7f325f" />
+<img width="854" height="596" alt="image" src="https://github.com/user-attachments/assets/75952fdf-de1b-4979-8707-c822c856140c" />
+<img width="1463" height="121" alt="image" src="https://github.com/user-attachments/assets/0e2ad16f-7e4e-4408-9da8-f99f15dae15a" />
+
 
